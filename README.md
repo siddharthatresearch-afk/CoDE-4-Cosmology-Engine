@@ -8,3 +8,16 @@ In addition to expansion history reconstruction, CoDE-4 incorporates a controlle
 The solver is implemented as a modular Python pipeline (~800+ lines) integrating background expansion, recombination-era geometry, perturbation growth evolution, and cross-epoch consistency checks within a unified structure. CoDE-4 is intended as a transparent phenomenological research platform for testing alternative expansion histories that remain compatible with precision cosmology observations.
 
 AUTHOR:Siddharth.S 
+
+
+🔔 Scheduled Repository Update (Next 72 Hours)
+
+A revised version of this repository will be pushed within the next **72 hours**.
+
+Planned changes include:
+
+* Corrections to implementation details in the cosmology engine
+* Improved consistency across test modules
+* Enhanced documentation for reproducibility and interpretation
+
+Users are advised to refer to the updated version for the most accurate representation of the model.
